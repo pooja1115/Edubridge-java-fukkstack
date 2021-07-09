@@ -1,1 +1,1 @@
-# Edubridge-java-fukkstack
+# Edubridge-java-fullstack
